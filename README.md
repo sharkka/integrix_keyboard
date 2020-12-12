@@ -6,7 +6,8 @@ temp repo for integrix keyboard
 
 + The layout is not iso or ansi, some special
 
-![avatar] (ff.jpg)
+keyboard pic
+![avatar](https://github.com/sharkka/integrix_keyboard/blob/main/background.jpg)
 
 back
-![avatar](bb.jpg) 
+![avatar](https://github.com/sharkka/integrix_keyboard/blob/main/frontground.jpg) 
