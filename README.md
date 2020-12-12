@@ -4,10 +4,10 @@ temp repo for integrix keyboard
 
 ## This is my integrix key board
 
-+ The layout is not iso or ansi, some special
++ The layout is not like iso or ansi, some special
 
 keyboard pic
-![avatar](https://github.com/sharkka/integrix_keyboard/blob/main/background.jpg)
+![integrix keyboard](https://github.com/sharkka/integrix_keyboard/blob/main/background.jpg)
 
 back
-![avatar](https://github.com/sharkka/integrix_keyboard/blob/main/frontground.jpg) 
+![background](https://github.com/sharkka/integrix_keyboard/blob/main/frontground.jpg) 
