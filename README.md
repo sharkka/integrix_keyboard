@@ -2,7 +2,7 @@
 repository for integrix keyboard
 
 
-## This is my integrix key board
+## This is my integrix keyboard
 
 + The layout is not like iso or ansi, some special
 + Integrix converter code base TMK.
