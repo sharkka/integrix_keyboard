@@ -1,0 +1,35 @@
+
+{
+  "name": "sharkka.SKCC.Green",
+ 
+  "vendorId": "0xFEED",
+ 
+  "productId": "0x6060",
+ 
+  "lighting": "qmk_rgblight",
+ 
+  "matrix": { "rows": 6, "cols": 19 },
+ 
+  "layouts": {
+ 
+    "keymap": [
+    [  "ESC",  "Win",  "F1",  "F2",  "F3",  "F4", "F5",  "F6",  "F7",  "F8",  "Skip",                                    "F9",  "F10",  "F11",  "F12"
+    ],
+    [  "~",  "1",  "2",  "3",  "4",  "5",  "6",  "7",  "8",  "9",  "0",  "-",  "=",  { "w": 2 },  "Backspace",     "Ins",     "Home",  "PgUp"
+    ],
+    [
+          {  "w": 1.5 },
+          "Tab",  "Q",  "W",  "E",  "R",  "T",  "Y",  "U",  "I",  "O",  "P",  "[", "]",  { "w": 2 },  "\\",        "Delete",  "End",  "PgDn"
+    ],
+    [
+          "CapsLock",  "A",  "S",   "D",  "F",  "G",  "H",  "J",  "K",  "L",  ";",  "'",  { "w": 2.5 },   "Enter",           "Up"
+    ],
+    [     { "w": 2.5 },  "LShift",
+          "Z",  "X",  "C",  "V",  "B",  "N",  "M",  ",",  ".",  "/",  "Alt", { "w": 2.5 }, "RShift",               "Left",   "Down",  "Right"
+    ],
+    [ 
+          "Ctrl",  { "w": 8 },  "Space"
+    ]
+    ]
+    }
+   }
